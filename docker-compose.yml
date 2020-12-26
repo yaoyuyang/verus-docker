@@ -1,0 +1,6 @@
+version: '3'
+services:
+  linux:
+    build: .
+    environment:
+      PUBLIC_VERUS_COIN_ADDRESS: RF1H1EsP383jjvEqzhEqwH9DgibRRurLEy
