@@ -1,5 +1,5 @@
 # verus-docker
-A docker setup to mine [Verus coin](https://verus.io/) using [Hellminer](https://github.com/hellcatz/luckpool). Follow the steps below to setup to run this on your local computer.
+A docker setup to mine [Verus coin](https://verus.io/) using [Hellminer](https://github.com/hellcatz/luckpool) for those who are not using linux natively on their computer. Follow the steps below to setup to run this on your local computer. I tested this fully on my Macbook Pro with Docker for Mac Version 2.0.0.0-mac78 (28905). I believe any latest Docker for Mac version should work.
 
 * Download [Docker Desktop](https://www.docker.com/products/docker-desktop)
 * Git clone [this repo](https://github.com/yaoyuyang/verus-docker)
